@@ -1,0 +1,12 @@
+{
+  "export_job_id": "dbe433be-ff30-42f6-bf92-d98d7cdca7a5",
+  "id_short": 174988,
+  "published_at": "2026-04-10T19:25:20Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-maine-us-sample-174988",
+  "sample_asset_name": "beamstation_174988_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/174988/beamstation_174988_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "fe21a18f1ff556521022a9b8d4acaf8436e31c3996eac7c4956d296a6356df06",
+  "sample_size_bytes": 36482,
+  "total_records": 50
+}
