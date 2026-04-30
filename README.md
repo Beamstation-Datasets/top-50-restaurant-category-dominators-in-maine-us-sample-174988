@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Maine, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `174988` |
 | Location | Maine |
 | Category | Restaurants |
-| Full dataset size | 51 records |
-| Free sample size | 5 records (9.8%) |
-| Last export | 2026-04-22T13:03:08.280555+00:00 |
+| Full dataset size | 44 records |
+| Free sample size | 4 records (9.09%) |
+| Last export | 2026-04-29T13:49:25.282450+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-maine-us-sample-174988/releases/download/sample-latest/beamstation_174988_restaurants-us-me_SAMPLE_DIST.csv) |
 
 ## What is in this sample
